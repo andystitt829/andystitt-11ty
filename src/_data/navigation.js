@@ -10,13 +10,13 @@ module.exports = {
     // }
   ],
   bottom: [
-    // {
-    //   text: 'Imprint',
-    //   url: '/imprint/'
-    // },
-    // {
-    //   text: 'Privacy',
-    //   url: '/privacy/'
-    // }
+    {
+      text: 'Accessibility Statement',
+      url: '/accessibility-statement/'
+    },
+    {
+      text: 'Sitemap',
+      url: '/sitemap/'
+    }
   ]
 };

@@ -51,6 +51,8 @@ module.exports = eleventyConfig => {
   eleventyConfig.addLayoutAlias('home', 'home.njk');
   eleventyConfig.addLayoutAlias('blog', 'blog.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
+  eleventyConfig.addLayoutAlias('sitemap', 'sitemap.njk');
+
 
   // 	---------------------  Custom filters -----------------------
   eleventyConfig.addFilter('limit', limit);
