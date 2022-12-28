@@ -1,21 +1,20 @@
 ---
 title: About
 permalink: /about/index.html
-description: About this starter
+description: About Andy Stitt
 layout: page
-youtube: true
 ---
 
-Based on the companion website of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'.
-An approach that promotes modern CSS with methodologies, fluid type & space, flexible Layouts and Progressive Enhancement.
+I built my first websites as a bored teenager in 1998. I experimented with Tripod, GeoCities, and Angelfire.
 
-This starter exists to hopefully spread the use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+No matter where my college years or career path took me, I always had an interest in building websites. I had my first opportunity to do so professionally ten years after creating my first website and haven't looked back since.
 
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
+I love being in the "tech for good" space and building digital properties that improve people's lives. For a long time, that was in the nonprofit world. After a quick stop in pharma marketing working with companies who treat rare diseases, I now find myself in state government.
 
-Edit your preferences (colors, fonts, fluid text sizes etc.) in `src/assets/css/design-tokens`.
+Accessibility is now a major focus of mine (took far too long, but better late than never). I love spending my days building and maintaining government websites that are accessible to the people that they serve.
 
-## Watch the talk
+Though most of my experience is with WordPress, I enjoy experimenting with other technologies, including static site generators like Gatsby and NextJS (I have used both for headless WordPress experimentation). This website is built with [Eleventy](https://www.11ty.dev/).
 
-{% youtube '5uhIiI9Ld5M', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+## Contact Me
+
+If you have any questions or are interested in working with me, you can email me at [andy@andystitt.com](mailto:andy@andystitt.com).

@@ -1,0 +1,6 @@
+{
+    "layout": "page",
+    "tags": "work",
+    "permalink": "//work/{{ title | slugify }}/index.html"
+  }
+  

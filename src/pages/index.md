@@ -1,17 +1,17 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
+title: ' Web Developer'
 description: 'Key principles using modern CSS, fluid type, fluid space, flexible layout and progressive enhancement will help you to build better front-ends that work for everyone.'
 layout: 'home'
-blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+work:
+  title: 'Work'
+  # intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
-## An Eleventy starter
+## Web developer specializing in accessibility
 
-This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://mastodon.social/@andy@bell.bz) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
+I have been working in digital since 2008, as a web developer full-time since 2016, and specializing in accessibility since 2021.
 
-In his words, it's about hinting the browser rather than micromanaging it, using progressive enhancement, CSS layout, fluid type & spacing, as well as modern CSS features.
+The majority of my work has involved digital transformations. Past work has included marketing rebrands and website redesigns for nonprofits where I served as web developer and content, project, email marketing, and social media manager.
 
-This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.
+I am now in state government and focusing on front-end development and accessibility. Current digital transformations include auditing and remediation of existing websites and incorporating accessibility practices into design, development, and content creation for current and future projects.

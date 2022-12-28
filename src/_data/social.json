@@ -1,18 +1,18 @@
 [
   {
     "platform": "github",
-    "url": "https://github.com/madrilene/eleventy-excellent",
+    "url": "https://github.com/andystitt829",
     "icon": "github.svg"
   },
   {
-    "platform": "mastodon",
-    "url": "https://front-end.social/@lene",
-    "icon": "mastodon.svg"
+    "platform": "linkedin",
+    "url": "https://www.linkedin.com/in/andrewstitt",
+    "icon": "linkedin.svg"
   },
   {
-    "platform": "ko-fi",
-    "url": "https://ko-fi.com/lenesaile",
-    "icon": "kofi.svg"
+    "platform": "mastodon",
+    "url": "https://mstdn.social/@andystitt",
+    "icon": "mastodon.svg"
   },
   {
     "platform": "rss",

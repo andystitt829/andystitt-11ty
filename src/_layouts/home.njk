@@ -8,7 +8,6 @@ layout: base
       <h1 class="text-center">{{ title }}</h1>
     </div>
   </div>
-  {% include 'svg/divider-waves.svg' %}
 </header>
 
 <article class="region">
@@ -19,7 +18,7 @@ layout: base
 
 <article class="region" style="--region-space-top: var(--space-s)">
   <div class="wrapper flow prose">
-    <h2>{{ blog.title }}</h2>
+    <h2>{{ work.title }}</h2>
     <!-- blog intro text is optional. -->
     {% if blog.intro %}
     <p>{{ blog.intro }}</p>
@@ -28,13 +27,12 @@ layout: base
   <!-- TODO: duplicate of partials/blog.njk -->
 
   <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %}
+    {% set postslist = collections.work %} {% for post in postslist.slice(0, 4) %}
 
     <li class="card flow clickable-card overflow-hidden">
       <h3>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h3>
-      {% set definedDate = post.date %} {% include "partials/date.njk" %}
       <p>{{ post.data.description }}</p>
     </li>
 
