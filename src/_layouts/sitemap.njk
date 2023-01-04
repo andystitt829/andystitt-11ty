@@ -5,10 +5,17 @@ layout: base
 <article class="region">
   <div class="wrapper flow prose">
     <h1 class="gradient-text">{{ title }}</h1>
+    <h2>Pages</h2>
     <ul role="list">
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
         {% set postslist = collections.work %} {% for post in postslist.slice(0, 4) %}
+        <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+        {% endfor %}
+    </ul>
+    <h2>Posts</h2>
+    <ul role="list">
+        {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %}
         <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
         {% endfor %}
     </ul>
