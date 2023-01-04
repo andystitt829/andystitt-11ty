@@ -39,7 +39,7 @@ module.exports = {
     zip: '',
     mobileDisplay: '',
     mobileCall: '',
-    email: '',
+    email: 'andy@andystitt.com',
     cif: ''
   },
   menu: {
