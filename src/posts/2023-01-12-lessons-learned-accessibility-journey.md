@@ -1,6 +1,6 @@
 ---
 title: 'Lessons learned in my accessibility journey'
-description: 'You can make a huge difference in your web development career if you focus on web accessibility.'
+description: 'Read about why everybody is responsible for accessibility and other lessons that I have learned.'
 date: 2023-01-12
 ---
 
