@@ -15,11 +15,6 @@
     "icon": "mastodon.svg"
   },
   {
-    "platform": "twitter",
-    "url": "https://twitter.com/andystitt829",
-    "icon": "twitter.svg"
-  },
-  {
     "platform": "rss",
     "url": "/feed.xml",
     "icon": "rss.svg"
