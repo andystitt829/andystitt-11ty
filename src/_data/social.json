@@ -10,11 +10,6 @@
     "icon": "linkedin.svg"
   },
   {
-    "platform": "mastodon",
-    "url": "https://mstdn.social/@andystitt",
-    "icon": "mastodon.svg"
-  },
-  {
     "platform": "rss",
     "url": "/feed.xml",
     "icon": "rss.svg"
